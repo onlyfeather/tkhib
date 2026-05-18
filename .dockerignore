@@ -1,0 +1,8 @@
+.git
+.venv
+__pycache__
+*.pyc
+.env
+data
+tkhib/plugins/dice_girl_plugin/dice_data.db
+tkhib/plugins/pixiv_bot_plugin/*.pkl
